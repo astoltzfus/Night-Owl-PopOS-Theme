@@ -20,4 +20,4 @@ Based on Sarah Drasner's [Night Owl and Light Owl VSCode Themes](https://github.
    ```
 
 2. Open "COSMIC Settings" -> "Desktop" -> "Appearance" and click "Import"
-3. Select the "Night Owl.ron" or "Light Owl.ron" file and Open
+3. Select the "Night_Owl.ron" or "Light_Owl.ron" file and Open
